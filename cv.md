@@ -4,8 +4,8 @@
 * Email: geodesist888@gmail.com
 * Tel: 89195424610
 ## About myself:
-I want learn a new profession and get an interesting experienxe. I hope RSS helps with this.
-## Waork experienxe:
+I want learn a new profession and get an interesting experience. I hope RSS helps with this.
+## Work experience:
 Create this CV with Markdown
 ## Education and courses:
 RSS JS / FRONT-END. STAGE 0
